@@ -1,0 +1,23 @@
+﻿# Rust build artifacts
+/target/
+
+# Node.js dependencies
+node_modules/
+**/node_modules/
+
+# Compiled binaries and object files
+*.exe
+*.obj
+*.dll
+*.lib
+*.pdb
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
